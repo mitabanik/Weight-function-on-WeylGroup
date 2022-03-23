@@ -1,2 +1,2 @@
-# Weight-function-on-a-WeylGroup
-We calculate the weight function on a WeylGroup.
+# Weight-function-on-WeylGroup
+We calculate the weight function on an WeylGroup.
